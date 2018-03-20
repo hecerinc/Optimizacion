@@ -67,4 +67,5 @@ For the 0/1 knapsack problem we can use the following features of the remaining 
 2. Calculate the feature values for your set of items for each rule in the matrix
 3. Get the eucledian distance for each feature for each rule in the matrix
 4. Activate the rule with the smallest abs(distance)
+5. Repeat for each iteration of the problem (remaining item in the list)
 
