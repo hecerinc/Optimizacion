@@ -18,7 +18,7 @@ For each instance of the problem we want the best combination of the available h
 
 **Optionally**, minimize the average waste:
 
-![Average waste](img/averagewaste.png)
+![Average waste](img/averagewaste.PNG)
 
 Where
 
