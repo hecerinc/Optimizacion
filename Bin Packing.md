@@ -22,6 +22,7 @@ For each instance of the problem we want the best combination of the available h
 
 Where
 
+- `n` is the total number of bins
 - `Q` is the average waste
 - `C` is the max capacity of the bins (*assuming this is a fixed value for all bins*)
 - W<sub>j</sub> is the current weight of bin `j`
