@@ -5,6 +5,10 @@
 % 		knapsackMain is a version using heuristics
 % 		knapsack2 uses hyperheuristics
 
+
+% Initialise knapsack:
+% kinit = struct('items',[], 'maxWeight', 900, 'freeCapacity', 900, 'profit', 0, 'weight', 0, 'isValid', true)
+
 % knapsackMain
 function [knapsack] = knapsackMain(knapsack,items, heuristicID)
 	while ~isempty(items)
