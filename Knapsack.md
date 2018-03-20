@@ -58,7 +58,7 @@ For the 0/1 knapsack problem we can use the following features of the remaining 
 	- Normalized standard deviation
 3. **Correlation**: between profit and weight. Divided by `2` plus `0.5`. MATLAB: `corr(w,p)`
 
-**Normalized** means that the vlaues should be in `[0,1]`. To do this, divide by the largest number in the set.
+**Normalized** means that the values should be in `[0,1]`. To do this, divide by the largest number in the set.
 
 
 ## Hyper heuristic calculation
